@@ -351,6 +351,8 @@ Open `http://127.0.0.1:8000` and select `logistics_agent_app`.
 "Optimize a route for Connaught Place, Saket, Rohini and Dwarka"
 ```
 
+![Demo](assets/image.png)
+
 ### Agent Tools
 
 | Tool | Description |
